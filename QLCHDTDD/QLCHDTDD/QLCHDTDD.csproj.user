@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ChiTietHoaDonBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChiTietPhieuMua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDonBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDonMua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhieuMuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TimKiemHoaDonBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TimKiemKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TimKiemMatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
